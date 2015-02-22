@@ -9,18 +9,31 @@ Column1: Activity:
 Column2: Subject: 1-30 
 
 Column 3-68: Average of means or standard deviations for each activity and each subject. 
+
 X, Y, Z: three different axis. 
+
 Prefix 't' denote time and prefix 'f' denote fast fourier transform.
-BodyAcc: body linear acceleration signal
-GravityAcc: gravity acceleration signal
-BodyAccJerk: body linear acceleration Jerk signal
-BodyGyro: body gyroscope signal
-BodyGyroJerk: body gyroscope Jerk signal
-BodyAccMag: magnitude of body linear acceleration signal
-GravityAccMag: magnitude of gravity acceleration signal
-BodyAccJerkMag: magnitude of body linear acceleration Jerk signal
+
+BodyAcc: body linear acceleration signal.
+
+GravityAcc: gravity acceleration signal.
+
+BodyAccJerk: body linear acceleration Jerk signal.
+
+BodyGyro: body gyroscope signal.
+
+BodyGyroJerk: body gyroscope Jerk signal.
+
+BodyAccMag: magnitude of body linear acceleration signal.
+
+GravityAccMag: magnitude of gravity acceleration signal.
+
+BodyAccJerkMag: magnitude of body linear acceleration Jerk signal.
+
 Measurements as listed below:
+
 mean(): Mean value
+
 std(): Standard deviation
 
 [3] "tBodyAcc-mean()-X"           
